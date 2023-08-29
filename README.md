@@ -5,7 +5,7 @@ News site layout (HTML5, CSS3, Tailwind CSS)
 ```shell
 git clone https://github.com/KhitrovMaksim/News.git
 cd News
-npm build
+npm run build
 ```
 2. Open index.html in browser.
 ## Stay in touch
