@@ -17,7 +17,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss build -i styles/src/main.css -o styles/main.css"
+    "build": "tailwindcss build -i styles/src/main.css -o styles/main.css --watch"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.15",
