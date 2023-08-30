@@ -1,5 +1,6 @@
 # News
 News site layout (HTML5, CSS3, Tailwind CSS)
+![news.png](news.png)
 ## Quick start
 1. Run commands:
 ```shell
